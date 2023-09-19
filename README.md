@@ -1,4 +1,4 @@
-# smps_tester
+# 2-layer PCB document for Switched-mode Power Supplies Power Tester
 PCB document of a Power tester for Switched-mode power supplies.
 
 PCB Capture:
