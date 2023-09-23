@@ -11,4 +11,4 @@ PCB Capture:
 3d Capture:
 
 
-![power_tester_3d](https://github.com/parhamsoltani/smps_tester/assets/70743729/e3eb260f-ce3b-4428-8c3c-b40d71d9406c)
+![power_tester_3d](https://raw.githubusercontent.com/parhamsoltani/SMPS_tester/main/3d.png?token=GHSAT0AAAAAACGMJENDNRCTRLPBVQJMFQLQZIPJXNQ)
